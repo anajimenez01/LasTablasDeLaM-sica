@@ -1,0 +1,83 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(195, 195, 195);
+}
+.contenedor{
+    background-color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: rgb(27, 215, 96);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table, th{
+    border: 5px solid black;
+}
+th{
+    background-color: rgb(39, 94, 59);
+    color: white;
+}
+header{
+    background-color: rgb(0, 0, 0);
+    padding: 30px;
+}
+h1{
+    color: rgb(27, 215, 96);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+}
+h2{
+    color: rgb(39, 94, 59);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 25px;
+}
+.artistas{
+    border: 8px solid black;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 350px;
+}
+.texto{
+    color: rgb(57, 81, 198);
+    font-family: sans Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.derechos{
+    color: rgb(27, 215, 96);
+    text-align: center;
+    padding: 20px;
+}
+footer{
+     background-color: black;
+}
